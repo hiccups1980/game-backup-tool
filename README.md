@@ -16,3 +16,8 @@ You can also define how many backup archives should be kept. For example, you ca
 This allows you to keep a rolling history of your savegames without having to manage the backup files manually.  
 The tool can be left running while playing, or started manually whenever you want to create a backup.  
 WinRAR must already be installed on your system. WinRAR is not included with this software and is not distributed with it.  
+
+# How do I know where the game stores it's savegame files?
+For example https://www.pcgamingwiki.com/wiki/Baldur%27s_Gate_3  
+Just search for the game here.  
+Once you found the game and open the game wiki page, scroll down to `Save game data location`  
