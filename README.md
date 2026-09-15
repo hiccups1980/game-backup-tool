@@ -2,7 +2,9 @@
 You need an existing WinRAR installation to use my program!
 
 # About me
-I'm not a programmer. I created this program with CLAUDE via vibecoding. So actually I have no idea what I'm doing. LOL The program works fine. I tested it with multiple games and it did what it should do. :)
+I'm not a programmer. I created this program with CLAUDE via vibecoding.  
+So actually I have no idea what I'm doing. LOL  
+The program works fine. I tested it with multiple games and it did what it should do. :)
 
 # What is it?
 This tool automatically creates timestamped backups of your game's save files at a configurable interval.  
