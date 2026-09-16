@@ -1,11 +1,6 @@
 # IMPORTANT
 You need an existing WinRAR installation to use my program!
 
-# About me
-I'm not a programmer. I created this program with CLAUDE via vibecoding.  
-So actually I have no idea what I'm doing. LOL  
-The program works fine. I tested it with multiple games and it did what it should do. :)
-
 # What is it?
 This tool automatically creates timestamped backups of your game's save files at a configurable interval.  
 When setting up the tool, you choose the location of your game's save files, the destination folder for the backups, and the location of your existing WinRAR installation. You can then configure how often a backup should be created and how many backup archives should be kept.  
@@ -20,3 +15,12 @@ WinRAR must already be installed on your system. WinRAR is not included with thi
 For example https://www.pcgamingwiki.com/wiki/Baldur%27s_Gate_3  
 Just search for the game here.  
 Once you found the game and open the game wiki page, scroll down to `Save game data location`  
+
+# About me
+I'm not a programmer. I created this program with CLAUDE via vibecoding.  
+So actually I have no idea what I'm doing. LOL  
+The program works fine. I tested it with multiple games and it did what it should do. :)
+
+# Additional notes
+I know the code is not perfect and not perfectly clean.  
+You are welcome to change or modify it and improve it.  
