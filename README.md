@@ -1,6 +1,13 @@
 # IMPORTANT
 You need an existing WinRAR installation to use my program!
 
+# Download & Installation
+https://github.com/hiccups1980/game-backup-tool/releases  
+Just download the EXE.  
+Create a folder for it and RUN it.  
+Set the directories and press "SAVE SETTINGS"!  
+Done.
+
 # What is it?
 This tool automatically creates timestamped backups of your game's save files at a configurable interval.  
 When setting up the tool, you choose the location of your game's save files, the destination folder for the backups, and the location of your existing WinRAR installation. You can then configure how often a backup should be created and how many backup archives should be kept.  
