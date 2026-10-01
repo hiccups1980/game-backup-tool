@@ -5,7 +5,11 @@ You need an existing WinRAR installation to use my program!
 https://github.com/hiccups1980/game-backup-tool/releases  
 Just download the EXE.  
 Create a folder for it and RUN it.  
-Set the directories and press "SAVE SETTINGS"!  
+Set the directories,  
+choose how often it should backup the files,  
+how many archives it should maximum create
+and press "SAVE SETTINGS"!  
+Start the backup. Stop it whenever you like.  
 Done.
 
 # What is it?
